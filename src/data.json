@@ -1,0 +1,12 @@
+{
+    "file_name": "people file",
+    "data": [{
+            "name": "person 1",
+            "birthday": "1900/01/01"
+        },
+        {
+            "name": "person 2",
+            "birthday": "1900/01/02"
+        }
+    ]
+}
